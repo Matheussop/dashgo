@@ -24,16 +24,16 @@ export function Profile({ showProfileData = true }: ProfileProps) {
     <Flex align="center">
       {showProfileData && (
         <Box mr="4" textAlign="right">
-          <Text>Matheus</Text>
+          <Text>Matheussop</Text>
           <Text color="gray.300" fontSize="small">
-            matheus@gmail.com
+            matheusluiz98@hotmail.com
           </Text>
         </Box>
       )}
 
       <Menu>
         <MenuButton>
-          <Avatar size="md" name='mathues' />
+          <Avatar size="md" name="matheusluiz98@hotmail.com" />
         </MenuButton>
         <MenuList bg="gray.800" borderColor="transparent" boxShadow="lg">
           <MenuGroup>
