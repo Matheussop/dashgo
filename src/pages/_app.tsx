@@ -14,7 +14,7 @@ import { queryClient } from "../services/queryClient";
 
 import "nprogress/nprogress.css";
 import "../styles/global.css";
-
+ 
 NProgress.configure({
   showSpinner: false
 });
